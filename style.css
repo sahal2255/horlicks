@@ -1,0 +1,289 @@
+*{
+    margin: 0%;
+}
+.header{
+    width: 75%;
+    position: fixed;
+    background-color: white;
+    border-bottom: 1px solid black;
+    margin-left: 250px;
+    margin-right: 250px;
+    
+}
+.logo{
+    display: flex; 
+    
+}
+.head{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left: 30px;
+    cursor: pointer;
+}
+.head1{
+    padding-left: 30px;
+    padding-top: 20px;
+    cursor: pointer;
+}
+.sel{
+    border-color: aliceblue;
+}
+.searc{
+    
+    
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.searchbar{
+    height: 35px;
+    border-radius: 20px;
+    width: 200px;
+}
+.backgr{
+   margin-left: 250px;
+   padding-top: 65px;
+}
+.bestenergy{
+    text-align: center;
+    height: 90px;
+    background-color:white;
+    margin-left: 250px;
+    margin-right: 220px;
+    padding-top: 30px;
+   
+}
+.first{
+    background-color: rgb(248, 248, 252);
+    margin-left: 250px;
+    display: flex;
+    margin-right: 220px;
+    height: 600px;
+}
+.sub1{
+    font-size: 36px;
+    font-weight: 600px;
+}
+.sub2{
+    width: 353px;
+    height: 150px;
+    line-height: 30px;
+}
+.second{
+    padding-left: 20px;
+}
+.hai1{
+    font-size: 22px;
+    line-height: 33px;
+    height: 70px;
+    width: 216px;
+}
+.hai2{
+    font-size: 16px;
+    line-height: 24px;
+    height: 150px;
+    width: 231px;
+}
+.hai3{
+    font-size: 16px;
+    line-height: 24px;
+    width: 180px;
+    border-radius: 20px;
+    height:35px ;
+    border-color: rgb(3, 3, 56);
+}
+.imaa{
+    border-radius: 15%;
+    width: 250px;
+  
+}
+.fsub{
+    padding-left: 50px;
+}
+.second{
+    padding-left: 50px;
+}
+.third{
+    padding-left: 50px;
+}
+.fourth{
+    padding-left: 50px;
+}
+.fifths{
+    
+    
+    padding-top: 170px;
+    padding-left: 80px;
+    
+    
+}
+.fif1{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 54px;
+    color: white;
+}
+.fif2{
+    font-size: 20px;
+    line-height: 30px;
+    height: 120px;
+    width: 354px;
+    color: white;
+}
+.fifth{
+    margin-top: 0%;
+    padding-top: 30px;
+    display: flex;
+    height: 700px;
+    background-color: rgb(22, 22, 148);
+    margin-left: 250px;
+    margin-right: 220px;
+}
+.butview{
+    margin-left: 100px;
+    width: 80px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: rgb(22, 22, 148);
+    border-color: white;
+    color: white;
+}
+.sixth{
+    padding-top: 80px;
+    background-color: rgb(245, 248, 247);
+    display: flex;
+    margin-left: 250px;
+    height: 600px;
+    margin-right: 220px;
+    padding: left 20px;
+}
+.sixth1{
+    padding-left: 70px;
+    padding-top: 100px;
+}
+.sixth2{
+    font-size: 36px;
+    font-weight: 600px;
+    line-height: 54px;
+    width: 351px;
+    
+}
+.sixth3{
+    font-size: 20px;
+    width: 351px;
+    line-height: 30px;
+    height: 120px;
+}
+.sixth4{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+}
+.seven{
+   margin-left: 10px;
+}
+.seven1{
+    font-size: 22px;
+    line-height: 33px;
+    height: 100px;
+    width: 231px;
+
+}
+.seven2{
+    font-size: 16px;
+    line-height: 24px;
+    height: 150px;
+    width: 231px;
+}
+.seven3{
+    font-size: 16px;
+    height: 34px;
+    width: 100px;
+    border-radius: 20px;
+}
+.eight{
+    margin-left: 10px;
+}
+.nine{
+    margin-left: 10px;
+}
+.imagees{
+    border-radius: 15%;
+    width: 250px;
+}
+.footmain{
+    background-color: rgb(177, 170, 162);
+    height: 400px;
+    margin-left: 250px;
+    margin-right: 220px;
+    padding-top: 30px;
+    padding-left: 20px;
+    display: flex;
+}
+.fodiv{
+
+}
+.foothead{
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 50px;
+    padding-top: 10px;
+    text-align: left;
+}
+.signs{
+    padding-left: 50px;
+    
+}
+.signup{
+    width: 201px;
+  
+    font-size: 16px;
+    line-height: 24px;
+    height: 23px;
+    padding-top: 10px;
+}
+.paralast{
+    padding-left: 50px;
+    font-size: 16px;
+    line-height: 24px; 
+}
+.butt{
+    margin-top: 50px;
+    height: 30px;
+}
+.submitbut{
+    background-color: rgb(65, 65, 233);
+    color: white;
+    height: 37px;
+    margin-left: -10px;
+}
+.foothead1{
+    padding-top: 20px;
+    cursor: pointer;
+}
+.lastfooot{
+    height: 2px;
+    background-color: blue;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: -100px;
+    display: flex;
+    
+   
+}
+.uni{
+   padding-left: 20px;
+   padding-top: 20px;
+}
+.stop{
+    color: blue;
+    width: 100px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.stop1{
+    color: blue;
+    width: 250px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
